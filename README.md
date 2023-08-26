@@ -34,6 +34,24 @@ La arquitectura en capas utilizada en la API Trivia de Programación permite una
 ### AutoMapper
 La API utiliza AutoMapper para automatizar el mapeo entre objetos DTO y entidades, simplificando la conversión de datos y mejorando la eficiencia del código.
 
+## Repositorio del Frontend
+
+Este repositorio alberga el código correspondiente a la parte del frontend de nuestro proyecto. Aquí encontrarás todos los archivos y recursos necesarios para la interfaz de usuario, así como la documentación pertinente.
+
+🔗[Enlace al Repositorio del Frontend](https://github.com/alelolek/TriviaGame)
+
+## Demo del Código
+
+Hemos preparado un demo en Youtube que muestra el funcionamiento del código en acción. Puedes acceder al demo para explorar sus características y posibilidades.
+
+📺[Enlace al Demo del Código](https://youtu.be/dilPFnFgGs8?si=VyfOD0AywjJUv_31)
+
+## Despliegue del Proyecto
+
+El proyecto ha sido desplegado exitosamente y puedes acceder a él a través del siguiente enlace:
+
+🚀[Enlace al Proyecto Desplegado](https://alelolek.github.io/TriviaGame/)
+
 ## Licencia
 Este proyecto se distribuye bajo la MIT. Para más información, consulta el archivo [LICENSE](https://github.com/alelolek/ApiTrivia/blob/main/LICENSE.txt).
 
